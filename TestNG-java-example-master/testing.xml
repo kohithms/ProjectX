@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Testing suite" parallel="methods" verbose="2">
+	<test name="testing test" skipfailedinvocationcounts="true">
+		<classes>
+			<class name="src\test\java\com\qmetry\testng_demo\CalculatorTest\CalculatorTest"/>
+		</classes>
+	</test>
+</suite>
